@@ -9,3 +9,9 @@ This project integrates:
 -> Accelerometer ST LIS3DH 
 -> 3 Led Sticks WS2812
 -> Tattu 1S 220mAh Lipo Battery 
+
+
+
+
+
+
