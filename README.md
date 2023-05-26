@@ -10,8 +10,8 @@
 4. Tattu 1S 220mAh Lipo Battery
 
 ## Esp32 / Lis3dh wiring:
-** GPIO 18 --- SCL
-** GPIO 19 --- SDO
+* ** GPIO 18 --- SCL
+* ** GPIO 19 --- SDO
 - GPIO 23 --- SDA
 - GPIO 5  --- CS
 - 3.3V    --- VCC
