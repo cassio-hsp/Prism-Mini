@@ -11,8 +11,8 @@
 
 ### ESP32 AND LIS3DH Wiring:
 
-- ### GPIO 18 - SCL
-- ### GPIO 19 - SDO
+- #### GPIO 18 - SCL
+- #### GPIO 19 - SDO
 - ### GPIO 23 - SDA
 - ### GPIO 5 - CS
 - ### 3.3 - VCC
