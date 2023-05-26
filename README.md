@@ -19,7 +19,14 @@
 
 ## CAD Model
 
-## Other Infos
+Soon 3D case model.
+
+## Future Features:
+* Some temperatures of white for photograph use.
+* Rocket Mode - When you launch the module, the acceleration or desacceleration changes the color.
+* Presence Mode - uses a BLE keychain to detect your presence.
+* App for configuration.
+* Mesh network between Prism modules using ESP-NOW.
 
 
 
