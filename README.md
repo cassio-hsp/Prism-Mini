@@ -9,7 +9,7 @@
 3. Led sticks WS2812
 4. Tattu 1S 220mAh Lipo Battery
 
-## Esp32 | Lis3dh wiring:
+## ESP32 | Lis3dh wiring:
 * GPIO 18 | SCL
 * GPIO 19 | SDO
 * GPIO 23 | SDA
