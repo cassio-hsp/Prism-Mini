@@ -17,7 +17,9 @@
 * 3.3V    | VCC
 * GND     | GND
 
+## CAD Model
 
+## Other Infos
 
 
 
